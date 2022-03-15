@@ -3,3 +3,22 @@
   margin: 0;
   box-sizing: border-box;
 }
+/* nabvar  */
+#navbar {
+  background-color: #1376b1;
+}
+#navbar svg {
+  width: 45px;
+  height: auto;
+  margin-right: 5px;
+}
+#navbar svg path {
+  fill: #fff;
+}
+#slider {
+  background-image: url(../images/slider-bg.jpg);
+  height: 100vh;
+}
+#products {
+  background-color: #0a1646;
+}
